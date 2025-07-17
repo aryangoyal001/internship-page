@@ -5,7 +5,7 @@ Welcome to my **Internship Programs Listing Page** developed during my Web Devel
 ---
 
 ## 🌐 Live Preview  
-🔗 [Click to View Website](https://aryangoyal001.github.io/vaultofcodes.site/)
+🔗 [Click to View Website](https://aryangoyal001.github.io/internship-page/)
 
 ---
 
@@ -40,7 +40,7 @@ Internship-Programs/
 
 **Aryan Goyal**  
 Web Development Intern @ VaultofCodes  
-[Click Here](https://github.com/aryangoyal001/Portfolio)
+[Click Here](https://aryangoyal001.github.io/Portfolio/)
 ---
 
 ## 📫 Contact
